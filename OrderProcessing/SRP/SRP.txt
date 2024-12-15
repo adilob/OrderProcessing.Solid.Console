@@ -1,0 +1,3 @@
+﻿SINGLE RESPONSIBILITY PRINCIPLE
+
+- Each class (OrderProcessor, OrderValidator, OrderSaver, Notifier) has a single responsibility.

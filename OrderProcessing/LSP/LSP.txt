@@ -1,0 +1,3 @@
+LISKOV SUBSTITUTION PRINCIPLE
+
+- EmailNotifier and SmsNotifier can be used interchangeably as INotifier.

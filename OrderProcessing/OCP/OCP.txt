@@ -1,0 +1,3 @@
+OPEN/CLOSED PRINCIPLE
+
+- You can add new types of notifications (like SmsNotifier) without modifying existing code.
